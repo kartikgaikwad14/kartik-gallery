@@ -1,30 +1,37 @@
 # Kartik Image Gallery
 
-This is a modern image gallery project built using **HTML, CSS, and JavaScript** with smooth animations.
+This is a modern **Image Gallery Project** built using **HTML, CSS, and JavaScript** with smooth animations and an interactive layout.
 
-## Live Website
+## 🌐 Live Website
 
-https://kartikgallery.netlify.app/
+🔗 https://kartikgallery.netlify.app/
 
-## Features
+## 📌 Project Features
 
-* Image gallery layout
+* Instagram-style image gallery layout
 * Smooth animations
 * Next / Previous navigation
 * Responsive design
+* Clean UI
 
-## Screenshots
+## 🖼️ Project Screenshots
 
 ### Gallery View
 
-![Screenshot1](screenshot1.png)
+![Screenshot 1](screenshot1.jpg)
 
 ### Image Preview
 
-![Screenshot2](screenshot2.png)
+![Screenshot 2](screenshot2.jpg)
 
-## Technologies Used
+## 🛠️ Technologies Used
 
 * HTML
 * CSS
 * JavaScript
+
+## 👨‍💻 Author
+
+Kartik Gaikwad
+Computer Engineering Student
+DY Patil Institute of Technology, Pimpri
